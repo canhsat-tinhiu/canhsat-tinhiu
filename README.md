@@ -4,3 +4,4 @@
 ![GitHub Stats](https://github.com/canhsat-tinhiu/github-stats/blob/master/generated/languages.svg)
 
 </a>
+![Visitor Counter](https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7)
