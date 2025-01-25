@@ -1,1 +1,6 @@
-![](https://raw.githubusercontent.com/canhsat-tinhiu/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/canhsat-tinhiu/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/canhsat-tinhiu/github-stats/blob/master/generated/languages.svg)
+
+</a>
