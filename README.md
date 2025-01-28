@@ -63,8 +63,8 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 ## 🎯 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" width="400" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" width="400" height="400" />
 </div>
 ---
 
