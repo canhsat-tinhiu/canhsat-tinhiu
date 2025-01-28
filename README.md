@@ -27,19 +27,15 @@ Here are some of the projects I've worked on:
 
 ### 1. **Automation Scripts**
    - A collection of Python scripts to automate everyday tasks, such as file organization, web scraping, and data processing.
-   - [Link to Repository](#)
 
 ### 2. **Backend APIs**
    - RESTful APIs built with Flask and Django for various applications, including user management, e-commerce, and more.
-   - [Link to Repository](#)
 
 ### 3. **Web Applications**
    - Full-stack web applications with Python backend and modern front-end technologies.
-   - [Link to Repository](#)
 
 ### 4. **Useful Python Tools**
    - Tools for data conversion, file handling, and other utilities to simplify workflows.
-   - [Link to Repository](#)
 
 ## 🛠️ Technologies & Tools
 
