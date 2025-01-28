@@ -3,7 +3,7 @@
   <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
 </div>
 
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Nguyen Duc Ky!
 
 Welcome to my GitHub profile! I'm a passionate Python developer who loves building things that make life easier and more efficient. My interests include automation, backend development, and creating useful tools with Python. I also enjoy coding web applications and exploring new technologies.
 
