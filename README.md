@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a passionate Python developer who loves buildi
 - **Useful Tools**: I create handy tools and scripts to solve real-world problems.
 - **Web Development**: I code web applications, from simple static sites to dynamic web apps.
 
+## 🎯 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" />
+</div>
+
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
@@ -60,13 +66,8 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 - **LinkedIn**: [Your LinkedIn Profile](#)
 - **Twitter**: [Your Twitter Handle](#)
 
-## 🎯 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" width="400" height="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" width="400" height="400" />
-</div>
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=canhsat-tinhiu&color=blue&style=flat-square" alt="Profile Views" />
