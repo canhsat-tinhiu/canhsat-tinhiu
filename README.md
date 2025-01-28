@@ -63,12 +63,6 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 - **Twitter**: [Your Twitter Handle](#)
 
 
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=canhsat-tinhiu&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
 ---
 
 Thanks for visiting my profile! Have a great day! 😄
