@@ -17,10 +17,9 @@ Welcome to my GitHub profile! I'm a passionate Python developer who loves buildi
 
 ## 🎯 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canhsat-tinhiu&show_icons=true&theme=light" alt="GitHub Stats" width="400" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light" alt="Top Languages" width="400" height="400" />
 </div>
-
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
