@@ -20,25 +20,36 @@
       </td>
     </tr>
     <!-- 访问量 -->
-    <tr>
-      <td align="left">
-        <ul>
-          <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
-          <li>
-            🌸 Follow me on
-            <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
-            <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
-          </li>
-          <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
-        </ul>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
-      </td>
-      <td align="center" width="150px">
-        <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
-      </td>
-    </tr>
+<tr>
+  <td colspan="3">
+    <table width="100%">
+      <tr>
+        <td>
+          <ul>
+            <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
+            <li>
+              🌸 Follow me on
+              <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>,
+              <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
+              <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
+            </li>
+            <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
     <!-- repo -->
     <tr>
       <td colspan="3" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
