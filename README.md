@@ -22,29 +22,24 @@
     <!-- 访问量 -->
 <tr>
   <td colspan="3">
-    <table width="100%">
-      <tr>
-        <td>
-          <details>
-            <summary>
-              <b>Contact Information</b>
-            </summary>
-            <ul>
-              <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
-              <li>
-                🌸 Follow me on
-                <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>,
-                <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
-                <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
-              </li>
-              <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
-            </ul>
-          </details>
+    <table>
+      <tr valign="top">
+        <td width="60%">
+          <ul>
+            <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
+            <li>
+              🌸 Follow me on
+              <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>,
+              <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
+              <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
+            </li>
+            <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
+          </ul>
         </td>
-        <td align="center">
+        <td>
           <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
         </td>
-        <td align="center">
+        <td>
           <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
         </td>
       </tr>
