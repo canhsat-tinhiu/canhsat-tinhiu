@@ -17,7 +17,7 @@
     <tr>
       <td align="left">
         <ul>
-          <li>👀 Read more about my <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
+          <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
           <li>
             🌸 Follow me on
             <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
@@ -30,7 +30,7 @@
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
       </td>
       <td align="center" width="150px">
-        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
+        <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/blob/main/canhsat-tinhiu/qr-wechat.jpg height="120px" />
       </td>
     </tr>
     <!-- repo -->
