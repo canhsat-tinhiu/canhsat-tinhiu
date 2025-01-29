@@ -24,16 +24,16 @@
     <tr>
       <td colspan="3">
         <div align="center">
-          <div align="left" width="300">
+          <div align="center" width="300">
             <ul>
-              <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
+              <li align="center">👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
               <li align="center">
                 🌸 Follow me on&nbsp;
                 <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>&nbsp;•&nbsp;
                 <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>&nbsp;•&nbsp;
                 <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
               </li>
-              <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
+              <li align="center">💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
             </ul>
           </div>
           &nbsp;&nbsp;&nbsp;
@@ -42,8 +42,7 @@
           </div>
           &nbsp;&nbsp;&nbsp;
           <div>
-            <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
-              height="120px" />
+            <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
           </div>
         </div>
       </td>
