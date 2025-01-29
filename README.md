@@ -43,17 +43,15 @@
           </div>
           &nbsp;&nbsp;&nbsp;
           <div align="center">
-            <table width="100%">
+            <table style="border-collapse: collapse;" width="100%">
               <tr>
-                <td align="center">
-                  <img
-                    src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
-                    height="120px" style="max-width: 100%; height: auto;" />
+                <td align="center" width="50%">
+                  <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
+                    width="100%" />
                 </td>
-                <td align="center">
-                  <img
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light"
-                    alt="Top Languages" style="max-width: 100%; height: auto;" />
+                <td align="center" width="50%">
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light"
+                    width="100%" />
                 </td>
               </tr>
             </table>
