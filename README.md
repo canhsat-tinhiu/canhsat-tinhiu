@@ -26,12 +26,12 @@
       <div align="left" width="300">
         <ul>
           <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
-          <li>
-            🌸 Follow me on
-            <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>,
-            <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
-            <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
-          </li>
+<li align="center">
+  🌸 Follow me on&nbsp;
+  <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>&nbsp;•&nbsp;
+  <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>&nbsp;•&nbsp;
+  <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
+</li>
           <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
         </ul>
       </div>
