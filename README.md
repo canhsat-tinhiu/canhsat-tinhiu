@@ -71,8 +71,6 @@
               ><img src="https://img.shields.io/npm/dt/crawl-website-interface?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
-
-
         </ul>
       </td>
     </tr>
