@@ -25,7 +25,8 @@
       <td colspan="3">
         <div align="center">
           <div align="center" width="300">
-            <div align="center">👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></div>
+            <div align="center">👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a>
+            </div>
             <div align="center">
               🌸 Follow me on&nbsp;
               <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>&nbsp;•&nbsp;
@@ -40,29 +41,30 @@
           </div>
           &nbsp;&nbsp;&nbsp;
           <div>
-            <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
+            <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
+              height="120px" />
           </div>
         </div>
       </td>
     </tr>
     <!-- repo -->
     <tr>
-      <td colspan="3" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
+      <td colspan="3" align="left"><b>Featured Projects：</b></td>
     </tr>
     <tr>
       <td colspan="3" align="left">
         <ul>
           <li>
             <a target="_blank"
-              href="https://github.com/canhsat-tinhiu/Check-Live-UID-Facebook">Check-Live-UID-Facebook</a>：🎬 基于 web
-            端的音视频编辑器。(A web-based audio and video editor.)
+              href="https://github.com/canhsat-tinhiu/Check-Live-UID-Facebook">Check-Live-UID-Facebook</a>：🔍 Tool for
+            checking the existence status of Facebook UIDs in bulk
             <a target="_blank" href="https://github.com/canhsat-tinhiu/Check-Live-UID-Facebook"><img
                 src="https://img.shields.io/github/stars/canhsat-tinhiu/Check-Live-UID-Facebook"
                 alt="GitHub stars" /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/Python-obfuscator">Python-obfuscator</a>：🦄
-            快速切换包管理工具的镜像源
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/Python-obfuscator">Python-obfuscator</a>：🔒 A
+            tool to obfuscate Python code to protect your source code
             <a target="_blank" href="https://github.com/canhsat-tinhiu/Python-obfuscator"><img
                 src="https://img.shields.io/github/stars/canhsat-tinhiu/Python-obfuscator" alt="GitHub stars" /></a>
             <a target="_blank" href="https://www.npmjs.com/package/Python-obfuscator"><img
@@ -70,7 +72,8 @@
                 alt="npm downloads" /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/vm-detect">vm-detect</a>：VS Code 划词翻译插件
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/vm-detect">vm-detect</a>：🔍 A tool for detecting
+            virtual machines and sandboxed environments
             <a target="_blank" href="https://github.com/canhsat-tinhiu/vm-detect"><img
                 src="https://img.shields.io/github/stars/canhsat-tinhiu/vm-detect" alt="GitHub stars" /></a>
             <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=canhsat-tinhiu.vm-detect"><img
@@ -79,8 +82,8 @@
           </li>
           <li>
             <a target="_blank"
-              href="https://github.com/canhsat-tinhiu/crawl-website-interface">crawl-website-interface</a>：🌈
-            一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
+              href="https://github.com/canhsat-tinhiu/crawl-website-interface">crawl-website-interface</a>：🕷️ A
+            flexible web scraping tool with an easy-to-use interface
             <a target="_blank" href="https://github.com/canhsat-tinhiu/crawl-website-interface"><img
                 src="https://img.shields.io/github/stars/canhsat-tinhiu/crawl-website-interface"
                 alt="GitHub stars" /></a>
