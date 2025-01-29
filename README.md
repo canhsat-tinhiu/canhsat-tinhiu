@@ -9,7 +9,6 @@
           <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi"
             width="30" />
         </div>
-        <br>
         <img
           src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=30&lines=A+passionate+Python+developer+based+in+Hanoi.++%F0%9F%91%8B"
           alt="Hi" width="400" />
