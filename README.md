@@ -1,14 +1,13 @@
-
 <div align="center">
   <table>
     <!-- Header -->
     <tr>
       <td colspan="3" align="left">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
-        <b> Hi there! I'm Rongding~ </b>
+        <b> Hi there! I'm Nguyen Duc Ky~ </b>
         <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B"
+          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Hanoi.++%F0%9F%91%8B"
           alt="Hi"
           width="400"
         />
@@ -21,39 +20,25 @@
       </td>
     </tr>
     <!-- 访问量 -->
-
-
-<tr>
-  <td colspan="3">
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
-      <!-- Info Links -->
-      <div align="left" style="flex: 1; min-width: 250px;">
+    <tr>
+      <td align="left">
         <ul>
           <li>👀 Read more about <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
           <li>
             🌸 Follow me on
-            <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>, 
-            <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
+            <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
             <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
           </li>
           <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
         </ul>
-      </div>
-      
-      <!-- Counter -->
-      <div align="center" style="min-width: 200px;">
-        <a href="https://github.com/canhsat-tinhiu">
-          <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" alt="Profile views counter"/>
-        </a>
-      </div>
-      
-      <!-- QR Code -->
-      <div align="center" style="min-width: 150px;">
-        <img src="./qr-wechat.jpg" height="120" alt="WeChat QR Code"/>
-      </div>
-    </div>
-  </td>
-</tr>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
+      </td>
+      <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />
+      </td>
+    </tr>
     <!-- repo -->
     <tr>
       <td colspan="3" align="left"><b>Some repos that didn't fit in the pinned dashboard：</b></td>
@@ -112,3 +97,5 @@
 <div align="center">
   <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
 </div>
+
+
