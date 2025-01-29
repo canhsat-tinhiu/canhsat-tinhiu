@@ -87,9 +87,6 @@
             <a target="_blank" href="https://github.com/canhsat-tinhiu/crawl-website-interface"><img
                 src="https://img.shields.io/github/stars/canhsat-tinhiu/crawl-website-interface"
                 alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/crawl-website-interface"><img
-                src="https://img.shields.io/npm/dt/crawl-website-interface?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"
-                alt="npm downloads" /></a>
           </li>
         </ul>
       </td>
