@@ -42,18 +42,18 @@
             <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" />
           </div>
           &nbsp;&nbsp;&nbsp;
-          <div>
+          <div align="center">
             <table width="100%">
               <tr>
-                <td align="center" width="50%">
+                <td align="center">
                   <img
                     src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
-                    height="120px" />
+                    height="120px" style="max-width: 100%; height: auto;" />
                 </td>
-                <td align="center" width="50%">
+                <td align="center">
                   <img
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light&height=200"
-                    alt="Top Languages" height="120px" />
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light"
+                    alt="Top Languages" style="max-width: 100%; height: auto;" />
                 </td>
               </tr>
             </table>
