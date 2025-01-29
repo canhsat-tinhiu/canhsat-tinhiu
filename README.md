@@ -72,10 +72,7 @@
             /></a>
           </li>
 
-          <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/access-counter"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/access-counter" alt="GitHub stars" /></a>
-          </li>
+
         </ul>
       </td>
     </tr>
