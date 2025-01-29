@@ -47,37 +47,31 @@
       <td colspan="3" align="left">
         <ul>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/webcut">WebCut</a>：🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/webcut"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/webcut" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/Check-Live-UID-Facebook">Check-Live-UID-Facebook</a>：🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/Check-Live-UID-Facebook"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/Check-Live-UID-Facebook" alt="GitHub stars" /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/prm-cli">prm-cli</a>：🦄 快速切换包管理工具的镜像源
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/prm-cli"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/prm-cli" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/prm-cli"
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/Python-obfuscator">Python-obfuscator</a>：🦄 快速切换包管理工具的镜像源
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/Python-obfuscator"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/Python-obfuscator" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/Python-obfuscator"
               ><img src="https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/fanyi">fanyi</a>：VS Code 划词翻译插件
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/fanyi"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/fanyi" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=canhsat-tinhiu.fanyi"
-              ><img src="https://badgen.net/vs-marketplace/i/canhsat-tinhiu.fanyi" alt="VS Code Marketplace installs"
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/vm-detect">vm-detect</a>：VS Code 划词翻译插件
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/vm-detect"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/vm-detect" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=canhsat-tinhiu.vm-detect"
+              ><img src="https://badgen.net/vs-marketplace/i/canhsat-tinhiu.vm-detect" alt="VS Code Marketplace installs"
             /></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/ding-trans">ding-trans</a>：🌈 一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/ding-trans"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/ding-trans" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/ding-trans"
-              ><img src="https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/crawl-website-interface">crawl-website-interface</a>：🌈 一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
+            <a target="_blank" href="https://github.com/canhsat-tinhiu/crawl-website-interface"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/crawl-website-interface" alt="GitHub stars" /></a>
+            <a target="_blank" href="https://www.npmjs.com/package/crawl-website-interface"
+              ><img src="https://img.shields.io/npm/dt/crawl-website-interface?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
             /></a>
           </li>
-          <li>
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/dev-search">dev-search</a>：🌸 在命令行中快速搜索你想要的！
-            <a target="_blank" href="https://github.com/canhsat-tinhiu/dev-search"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/dev-search" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/dev-search"
-              ><img src="https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
-            /></a>
-          </li>
+
           <li>
             <a target="_blank" href="https://github.com/canhsat-tinhiu/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
             <a target="_blank" href="https://github.com/canhsat-tinhiu/access-counter"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/access-counter" alt="GitHub stars" /></a>
