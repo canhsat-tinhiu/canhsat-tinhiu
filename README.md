@@ -43,11 +43,20 @@
           </div>
           &nbsp;&nbsp;&nbsp;
           <div>
-            <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
-              height="120px" />
-          </div>
-          <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light&height=200" alt="Top Languages" style="height: 200px;" />
+            <table>
+              <tr>
+                <td align="center">
+                  <img
+                    src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
+                    height="120px" />
+                </td>
+                <td align="center">
+                  <img
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light&height=200"
+                    alt="Top Languages" height="120px" />
+                </td>
+              </tr>
+            </table>
           </div>
         </div>
       </td>
