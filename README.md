@@ -12,7 +12,7 @@
         <br>
         <img
           src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionatePython+developer+based+in+Hanoi.++%F0%9F%91%8B"
-          alt="Hi" width="300" />
+          alt="Hi" width="200" />
       </td>
     </tr>
     <!-- Welcome Message -->
