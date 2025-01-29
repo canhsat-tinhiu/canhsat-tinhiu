@@ -58,9 +58,8 @@ I'm always exploring new technologies and improving my skills. Currently, I'm fo
 
 I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [Your Twitter Handle](#)
+- **Email**: nguyen00ky@gmail.com
+
 
 
 ---
