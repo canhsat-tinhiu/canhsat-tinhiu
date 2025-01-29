@@ -32,9 +32,9 @@
             </div>
             <div align="center">
               🌸 Follow me on&nbsp;
-              <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>&nbsp;•&nbsp;
-              <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>&nbsp;•&nbsp;
-              <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
+              <a target="_blank" href="https://twitter.com/canhsat-tinhiu">Twitter</a>&nbsp;;&nbsp;
+              <a target="_blank" href="https://juejin.cn/user/2858385963749223">Telegram</a>&nbsp;;&nbsp;
+              <a target="_blank" href="https://www.zhihu.com/people/rongding">Whatsapp</a>
             </div>
             <div align="center">💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></div>
           </div>
