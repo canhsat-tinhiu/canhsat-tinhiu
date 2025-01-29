@@ -43,7 +43,7 @@
       <!-- Counter -->
       <div align="center" style="min-width: 200px;">
         <a href="https://github.com/canhsat-tinhiu">
-          <img src="https://komarev.com/ghpvc/?username=canhsat-tinhiu&style=flat-square&color=blue" alt="Profile views counter"/>
+          <img src="https://access-counter.vercel.app/api/counter?name=canhsat-tinhiu&theme=006&length=7" alt="Profile views counter"/>
         </a>
       </div>
       
