@@ -1,3 +1,24 @@
+<style>
+@media screen and (max-width: 768px) {
+  .responsive-row {
+    display: flex;
+    flex-direction: column;
+  }
+  .responsive-cell {
+    width: 100% !important;
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .responsive-cell ul {
+    padding-left: 0;
+    list-style-position: inside;
+  }
+  .responsive-cell img {
+    margin: 10px auto;
+  }
+}
+</style>
 <div align="center">
   <table>
     <!-- Header -->
@@ -20,27 +41,7 @@
       </td>
     </tr>
     <!-- 访问量 -->
-<style>
-@media screen and (max-width: 768px) {
-  .responsive-row {
-    display: flex;
-    flex-direction: column;
-  }
-  .responsive-cell {
-    width: 100% !important;
-    display: block;
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  .responsive-cell ul {
-    padding-left: 0;
-    list-style-position: inside;
-  }
-  .responsive-cell img {
-    margin: 10px auto;
-  }
-}
-</style>
+
 
 <tr class="responsive-row">
   <td align="left" class="responsive-cell">
