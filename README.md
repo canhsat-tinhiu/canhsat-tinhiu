@@ -43,14 +43,14 @@
           </div>
           &nbsp;&nbsp;&nbsp;
           <div>
-            <table>
+            <table width="100%">
               <tr>
-                <td align="center">
+                <td align="center" width="50%">
                   <img
                     src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
                     height="120px" />
                 </td>
-                <td align="center">
+                <td align="center" width="50%">
                   <img
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light&height=200"
                     alt="Top Languages" height="120px" />
