@@ -30,7 +30,7 @@
         <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
       </td>
       <td align="center" width="150px">
-        <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/blob/main/canhsat-tinhiu/qr-wechat.jpg height="120px" />
+        <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg" height="120px" />     
       </td>
     </tr>
     <!-- repo -->
