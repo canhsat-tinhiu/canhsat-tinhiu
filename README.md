@@ -47,11 +47,11 @@
               <tr>
                 <td align="center" width="50%">
                   <img src="https://raw.githubusercontent.com/canhsat-tinhiu/image-storage/main/canhsat-tinhiu/qr-wechat.jpg"
-                    width="100%" />
+                    width="50%" />
                 </td>
                 <td align="center" width="50%">
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhsat-tinhiu&layout=compact&theme=light"
-                    width="100%" />
+                    width="50%" />
                 </td>
               </tr>
             </table>
