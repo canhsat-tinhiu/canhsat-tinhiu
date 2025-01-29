@@ -17,13 +17,13 @@
     <tr>
       <td align="left">
         <ul>
-          <li>👀 Read more about my <a target="_blank" href="http://www.fedtop.com/">Blog</a></li>
+          <li>👀 Read more about my <a target="_blank" href="https://www.whatismy2fa.com/">My Website</a></li>
           <li>
             🌸 Follow me on
             <a target="_blank" href="https://twitter.com/wangrongding">Twitter</a>, <a target="_blank" href="https://juejin.cn/user/2858385963749223">Juejin</a>,
             <a target="_blank" href="https://www.zhihu.com/people/rongding">Zhihu</a>
           </li>
-          <li>💬 Ping me by <a target="_blank" href="mailto:fedtop@163.com">Email</a></li>
+          <li>💬 Ping me by <a target="_blank" href="mailto:nguyen00ky@gmail.com">Email</a></li>
         </ul>
       </td>
       <td align="center" width="30%">
