@@ -74,9 +74,7 @@
           <li>
             <a target="_blank" href="https://github.com/canhsat-tinhiu/dev-search">dev-search</a>：🌸 在命令行中快速搜索你想要的！
             <a target="_blank" href="https://github.com/canhsat-tinhiu/dev-search"><img src="https://img.shields.io/github/stars/canhsat-tinhiu/dev-search" alt="GitHub stars" /></a>
-            <a target="_blank" href="https://www.npmjs.com/package/dev-search"
-              ><img src="https://img.shields.io/npm/dt/dev-search?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm" alt="npm downloads"
-            /></a>
+
           </li>
           <li>
             <a target="_blank" href="https://github.com/canhsat-tinhiu/access-counter">access-counter</a>：🍀 超级简单好用的 github profile 访问计数器。 使用 Vercel KV for Redis 记录浏览量。
